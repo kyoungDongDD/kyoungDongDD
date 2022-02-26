@@ -3,6 +3,9 @@
 # Well come to kyoungDong's GIT 😎
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoungDongDD&show_icons=true&theme=highcontrast)](https://github.com/kyoungDongDD/github-readme-stats)
+[![Anurag's GitHub stats](github-readme-stats.vercel.app/api/top-langs/?username=kyoungDongDD&langs_count=5&theme=highcontrast)
+
+출처: https://ndb796.tistory.com/512 [안경잡이개발자]
 # Algorithm🕹
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudehd32)](https://solved.ac/rlarudehd32?username=anuraghazra&show_icons=true&theme=radical)
