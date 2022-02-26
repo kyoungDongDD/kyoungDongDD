@@ -60,7 +60,8 @@ SSAFY 6기
 <br>
 
 # SNS
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/f96317cad24542fe93c5b68b76fe1ce0)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/kyoum_d/)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=footer)
