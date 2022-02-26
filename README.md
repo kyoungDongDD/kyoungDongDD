@@ -1,5 +1,5 @@
 #
-![header](https://capsule-render.vercel.app/api?type=waving&color=87ceeb&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C7BF53&height=100&section=header)
 # Well come to kyoungDong's GIT 😎
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoungDongDD&show_icons=true&theme=gruvbox)](https://github.com/kyoungDongDD/github-readme-stats)
@@ -71,7 +71,7 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/kyoum_d/)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=87ceeb&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=C7BF53&height=100&section=footer)
 
 <!--
 **kyoungDongDD/kyoungDongDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
