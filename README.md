@@ -15,14 +15,12 @@ SSAFY 6기
 ### webRTC 와 openVidu를 활용한 온라인 화상 경매 서비스 구현!! 
 
 ###
-VIBID NOTION<a herf= "https://www.notion.so/f96317cad24542fe93c5b68b76fe1ce0">  
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+#### VIBID NOTION
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/f96317cad24542fe93c5b68b76fe1ce0)
 </a>
 <br>
-VIBID GIT  
-<a herf="https://www.notion.so/f96317cad24542fe93c5b68b76fe1ce0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</a> 
+#### VIBID GIT
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
 <br>
 
 ## 싸썹(SSACCP) 인증마크🎇 
