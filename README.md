@@ -19,8 +19,7 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 
 ###
 #### VIBID NOTION
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/f96317cad24542fe93c5b68b76fe1ce0)
-</a>
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/VIBID-e2b07ddb4ee840ca843b69a9aebc3346)
 <br>
 #### VIBID GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
@@ -31,9 +30,8 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 ## 싸썹(SSACCP) 인증마크🎇 
 ### 블록체인 기술을 접목시킨 SSAFY 만의 인증마크 부여서비스
 ###
-#### SSACCP NOTION
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/f96317cad24542fe93c5b68b76fe1ce0)
-</a>
+#### SSACCP NOTION    
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/2-2-P2P-fe4d18d14d484d9f92fbbc237ec648d0)
 <br>
 #### SSACCP GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
