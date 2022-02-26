@@ -1,14 +1,12 @@
 #
-![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=87ceeb&height=100&section=header)
 # Well come to kyoungDong's GIT 😎
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudehd32)](https://solved.ac/rlarudehd32)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoungDongDD)](https://github.com/kyoungDongDD/github-readme-stats)
 
 # profile
 SSAFY 6기
-
-# Algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudehd32)](https://solved.ac/rlarudehd32)
 
 # project
 ## 화상 경매 시스템 VIBID💎 <br>
@@ -64,7 +62,7 @@ SSAFY 6기
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/kyoum_d/)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=87ceeb&height=100&section=footer)
 
 <!--
 **kyoungDongDD/kyoungDongDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
