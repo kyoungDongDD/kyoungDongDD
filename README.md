@@ -9,7 +9,7 @@
 # profile🎞
 SSAFY 6기 (2021-07-23 ~ 진행중 )
 <details>
-  <summary>projects💻</summary>
+  <summary>projects💻(클릭하여 )</summary>
 <div markdown="1">
 
 ## 화상 경매 시스템 VIBID💎 <br>
