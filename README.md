@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87ceeb&height=100&section=header)
 # Well come to kyoungDong's GIT 😎
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoungDongDD&show_icons=true&theme=highcontrast)](https://github.com/kyoungDongDD/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoungDongDD&langs_count=3&theme=highcontrast)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoungDongDD&show_icons=true&theme=gruvbox)](https://github.com/kyoungDongDD/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoungDongDD&langs_count=3&theme=gruvbox)
 
 # Algorithm🕹
 [![Solved.ac
