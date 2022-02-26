@@ -3,13 +3,15 @@
 # Well come to kyoungDong's GIT 😎
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoungDongDD&show_icons=true&theme=highcontrast)](https://github.com/kyoungDongDD/github-readme-stats)
-# Algorithm
+# Algorithm🕹
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudehd32)](https://solved.ac/rlarudehd32?username=anuraghazra&show_icons=true&theme=radical)
-# profile
-SSAFY 6기
+# profile🎞
+SSAFY 6기 (2021-07-23 ~ 진행중 )
+<details>
+  <summary>projects💻</summary>
+<div markdown="1">
 
-# project
 ## 화상 경매 시스템 VIBID💎 <br>
 ### webRTC 와 openVidu를 활용한 온라인 화상 경매 서비스 구현!! 
 
@@ -21,7 +23,9 @@ SSAFY 6기
 #### VIBID GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
 <br>
-
+</div>
+  <div markdown="2">
+  
 ## 싸썹(SSACCP) 인증마크🎇 
 ### 블록체인 기술을 접목시킨 SSAFY 만의 인증마크 부여서비스
 ###
@@ -32,6 +36,8 @@ SSAFY 6기
 #### SSACCP GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
 <br>
+</div>
+</details>
 
 # technology stack⚡
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
