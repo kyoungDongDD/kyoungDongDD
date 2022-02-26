@@ -25,7 +25,7 @@ VIBID GIT
 </a> 
 <br>
 
-## 싸썹(SSACCP) 인증마크 
+## 싸썹(SSACCP) 인증마크🎇 
 ### 블록체인 기술을 접목시킨 SSAFY 만의 인증마크 부여서비스
 ###
 SSACCP NOTION
@@ -37,7 +37,7 @@ SSACCP GIT<br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
-# Skills⚡
+# technology stack⚡
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
@@ -63,11 +63,8 @@ SSACCP GIT<br>
 <br>
 
 # SNS
-<a herf= "https://www.notion.so/f96317cad24542fe93c5b68b76fe1ce0">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gray&height=100&section=footer)
 
