@@ -18,10 +18,10 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 ### webRTC 와 openVidu를 활용한 온라인 화상 경매 서비스 구현!! 
 
 ###
-#### VIBID NOTION (클릭하여 이동)
+#### VIBID NOTION
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/VIBID-e2b07ddb4ee840ca843b69a9aebc3346)
 <br>
-#### VIBID GIT (클릭하여 이동)
+#### VIBID GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
 <br>
 </div>
@@ -30,10 +30,10 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 ## 싸썹(SSACCP) 인증마크🎇 
 ### 블록체인 기술을 접목시킨 SSAFY 만의 인증마크 부여서비스
 ###
-#### SSACCP NOTION (클릭하여 이동)
+#### SSACCP NOTION
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/2-2-P2P-fe4d18d14d484d9f92fbbc237ec648d0)
 <br>
-#### SSACCP GIT (클릭하여 이동)
+#### SSACCP GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
 <br>
 </div>
