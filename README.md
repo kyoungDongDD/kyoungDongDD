@@ -11,7 +11,6 @@
 # profile🎞
 SSAFY 6기 (2021-07-23 ~ 진행중 )
 
-1일 1COMMIT 하기!!
 <details>
   <summary>projects💻(클릭하여 확인)</summary>
 <div markdown="1">
