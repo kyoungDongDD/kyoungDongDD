@@ -10,6 +10,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudehd32)](https://solved.ac/rlarudehd32?username=anuraghazra&show_icons=true&theme=radical)
 # profile🎞
 SSAFY 6기 (2021-07-23 ~ 진행중 )
+
+1일 1COMMIT 하기!!
 <details>
   <summary>projects💻(클릭하여 확인)</summary>
 <div markdown="1">
