@@ -15,7 +15,7 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
   <summary>projects💻(클릭하여 확인)</summary>
 <div markdown="1">
 
-## 화상 경매 시스템 VIBID💎 <br>
+## VIBID💎 / (화상 경매 시스템) <br>
 ### webRTC 와 openVidu를 활용한 온라인 화상 경매 서비스 구현!! 
 
 ###
@@ -28,7 +28,7 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 </div>
   <div markdown="2">
   
-## 싸썹(SSACCP) 인증마크🎇 
+## 세나기🐶 [세상에 나쁜 기부는 없다] / (블록체인 P2P 기부 플랫폼)� 
 ### 블록체인 기술을 접목시킨 SSAFY 만의 인증마크 부여서비스
 ###
 #### SSACCP NOTION
