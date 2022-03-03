@@ -65,7 +65,7 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <br>
 
-# SNS (클릭하여 이동)
+# SNS (클릭하여 이동) 
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/f96317cad24542fe93c5b68b76fe1ce0)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/kyoum_d/)
 
