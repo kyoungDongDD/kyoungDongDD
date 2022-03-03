@@ -20,7 +20,7 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 
 ###
 #### VIBID NOTION
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/VIBID-e2b07ddb4ee840ca843b69a9aebc3346)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/VIBID-97c8459e00a5478fb0e83fa913c60e0f)
 <br>
 #### VIBID GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
