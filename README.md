@@ -32,7 +32,7 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 ### 블록체인 기술을 접목시킨 SSAFY 만의 인증마크 부여서비스
 ###
 #### SSACCP NOTION
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/2-2-P2P-fe4d18d14d484d9f92fbbc237ec648d0)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/P2P-a16a77fef9c34d7b983e8fe569365a8b)
 <br>
 #### SSACCP GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
