@@ -41,12 +41,14 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 </details>
 
 # technology stack⚡
+<!-- https://simpleicons.org/ 로고 공장-->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2 database-0F1689?style=flat-square&logo=Hetzner&logoColor=white"/>
 <br>
 <br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
