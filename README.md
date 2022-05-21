@@ -26,16 +26,31 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
 <br>
 </div>
-  <div markdown="2">
+  
+<div markdown="2">
   
 ## 세나기🐶 [세상에 나쁜 기부는 없다] / (블록체인 P2P 기부 플랫폼)
-### 블록체인 기술을 접목시킨 SSAFY 만의 인증마크 부여서비스
+### 블록체인 기술을 접목시켜 투명하고 믿을수 있는 기부 서비스
 ###
 #### SSACCP NOTION
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/P2P-a16a77fef9c34d7b983e8fe569365a8b)
 <br>
 #### SSACCP GIT
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/senagi)
+<br>
+</div>
+  
+  
+<div markdown="3">
+  
+## Dockerby🐶 [원클릭 배포 도우미] / (오픈소스 프로젝트)
+### 배포에 대해 아무것도 몰라도 간단한 설정만으로 배포가 가능한 서비스
+###
+#### SSACCP NOTION
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/P2P-a16a77fef9c34d7b983e8fe569365a8b)
+<br>
+#### SSACCP GIT
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/dockerby)
 <br>
 </div>
 </details>
