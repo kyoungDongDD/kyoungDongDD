@@ -35,7 +35,7 @@ SSAFY 6기 (2021-07-23 ~ 진행중 )
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/P2P-a16a77fef9c34d7b983e8fe569365a8b)
 <br>
 #### SSACCP GIT
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/SSAFY-VIBID)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/kyoungDongDD/senagi)
 <br>
 </div>
 </details>
