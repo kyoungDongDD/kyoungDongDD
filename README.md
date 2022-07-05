@@ -39,7 +39,7 @@ SSAFY 6기 교육생    (2021-07-23 ~ 2022-06-30)
   
 <div markdown="3">
   
-## Dockerby🧐 [원클릭 배포 도우미] / (오픈소스 프로젝트)
+## Dockerby🧐 [원클릭 배포 도우미] / (오픈소스 프로젝트) 🏆결선 2위 수상
 ### 배포에 대해 아무것도 몰라도 간단한 설정만으로 배포가 가능한 서비스
 ###
 #### Dockerby NOTION [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/P2P-a16a77fef9c34d7b983e8fe569365a8b)
