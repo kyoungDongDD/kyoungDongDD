@@ -9,7 +9,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarudehd32)](https://solved.ac/rlarudehd32?username=anuraghazra&show_icons=true&theme=radical)
 # profile🎞
-SSAFY 7기 실습 코치 (2022-07-01 ~ 진 행 중 )
+SSAFY 7기 실습 코치 (2022-07-01 ~ 진 행 중 ) <br>
 SSAFY 6기 교육생    (2021-07-23 ~ 2022-06-30)
 
 
